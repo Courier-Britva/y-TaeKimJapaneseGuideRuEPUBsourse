@@ -63,6 +63,12 @@
     <item id="img-5.12.1" href="media/5.12.1.png" media-type="image/png"/>
     <item id="img-5.12.2" href="media/5.12.2.png" media-type="image/png"/>
 
+    <item id="img-6.1" href="media/6.1.png" media-type="image/png"/>
+    <item id="img-6.4.1" href="media/6.4.1.png" media-type="image/png"/>
+    <item id="img-6.4.2" href="media/6.4.2.png" media-type="image/png"/>
+    <item id="img-6.4.3" href="media/6.4.3.png" media-type="image/png"/>
+    <item id="img-6.6" href="media/6.6.png" media-type="image/png"/>
+
 
 
     <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
