@@ -69,6 +69,35 @@
     <item id="ch_4_16" href="4. Основная грамматика/4.16 Заключение к 4 части и еще Гоби.xhtml" media-type="application/xhtml+xml"/>
     
     
+    <!-- 5. Специальные выражения -->
+    <item id="ch_5_1" href="5. Специальные выражения/5.1 Побудительный и Страдательный залоги глаголов.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_2" href="5. Специальные выражения/5.2 Почтительные и смиренные формы.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_3" href="5. Специальные выражения/5.3 Ненамеренные действия　（～てしまう、～ちゃう／～じゃう）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_4" href="5. Специальные выражения/5.4 Специальные выражения с субстантиваторами （こと、ところ、もの）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_5" href="5. Специальные выражения/5.5 Выражения разной степени уверенности　（かもしれない、でしょう、だろう）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_6" href="5. Специальные выражения/5.6 Указание количества　（だけ、のみ、しか、ばかり、すぎる、количество+も、ほど、さ）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_7" href="5. Специальные выражения/5.7 Различные способы выражения подобия и цитирования　（よう、～みたい、～そう、～そうだ、～らしい、～っぽい）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_8" href="5. Специальные выражения/5.8 Использование 方 и よる для сравнений а так же другие значения　（より、の方、корень＋方、によって、によると）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_9" href="5. Специальные выражения/5.9 Как сказать, что-то легко (сложно) сделать　（～やすい、～にくい）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_10" href="5. Специальные выражения/5.10 Вновь отрицательные формы глаголов　（ないで、ず、～ん、ぬ）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_11" href="5. Специальные выражения/5.11 Построение гипотетических высказываний и выводов （わけ、～とする）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_12" href="5. Специальные выражения/5.12 Передача временного ограничения событий （ばかり、とたんに、ながら、まくる）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_13" href="5. Специальные выражения/5.13 Передача неизменности　（まま、っぱなし）.xhtml" media-type="application/xhtml+xml"/>
+    
+    
+    <!-- 6. Темы для опытных -->
+    <item id="ch_6_1" href="6. Темы для опытных/6.1 Формальные выражения　（である、ではない）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_2" href="6. Темы для опытных/6.2 Как оно должно быть （はず、べき、べく、べからず）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_3" href="6. Темы для опытных/6.3 Ожидаемый минимум （でさえ、ですら、おろか）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_4" href="6. Темы для опытных/6.4 Проявление признаков чего-либо （～がる、ばかり、～めく）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_5" href="6. Темы для опытных/6.5 Формальные выражения невозможности　（～ざるを得ない、やむを得ない、～かねる）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_6" href="6. Темы для опытных/6.6 Тенденции （～がち、～つつ、きらいがある）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_7" href="6. Темы для опытных/6.7 Непростое побуждение　（まい、であろう、かろう）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_8" href="6. Темы для опытных/6.8 Covered by something （だらけ、まみれ、ずくめ）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_9" href="6. Темы для опытных/6.9 Advanced proximity of actions （が早いか、や否や、そばから）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_10" href="6. Темы для опытных/6.10 Others （思いきや、がてら、あげく）.xhtml" media-type="application/xhtml+xml"/>
+
+    
     <!--
     
      -->
@@ -116,5 +145,29 @@
     <itemref idref="ch_4_14"/>
     <itemref idref="ch_4_15"/>
     <itemref idref="ch_4_16"/>
+    
+<itemref idref="ch_5_1"/>
+    <itemref idref="ch_5_2"/>
+    <itemref idref="ch_5_3"/>
+    <itemref idref="ch_5_4"/>
+    <itemref idref="ch_5_5"/>
+    <itemref idref="ch_5_6"/>
+    <itemref idref="ch_5_7"/>
+    <itemref idref="ch_5_8"/>
+    <itemref idref="ch_5_9"/>
+    <itemref idref="ch_5_10"/>
+    <itemref idref="ch_5_11"/>
+    <itemref idref="ch_5_12"/>
+    <itemref idref="ch_5_13"/>
+    <itemref idref="ch_6_1"/>
+    <itemref idref="ch_6_2"/>
+    <itemref idref="ch_6_3"/>
+    <itemref idref="ch_6_4"/>
+    <itemref idref="ch_6_5"/>
+    <itemref idref="ch_6_6"/>
+    <itemref idref="ch_6_7"/>
+    <itemref idref="ch_6_8"/>
+    <itemref idref="ch_6_9"/>
+    <itemref idref="ch_6_10"/>
   </spine>
 </package>
