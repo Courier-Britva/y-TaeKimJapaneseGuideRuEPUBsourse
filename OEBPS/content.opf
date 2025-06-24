@@ -53,6 +53,18 @@
     <item id="img-4.15.8" href="media/4.15.8.png" media-type="image/png"/>
     <item id="img-4.15.9" href="media/4.15.9.png" media-type="image/png"/>
 
+
+    <item id="img-5.1.1" href="media/5.1.1.png" media-type="image/png"/>
+    <item id="img-5.1.2" href="media/5.1.2.png" media-type="image/png"/>
+    <item id="img-5.2.1" href="media/5.2.1.png" media-type="image/png"/>
+    <item id="img-5.2.2" href="media/5.2.2.png" media-type="image/png"/>
+    <item id="img-5.7" href="media/5.7.png" media-type="image/png"/>
+    <item id="img-5.9" href="media/5.9.png" media-type="image/png"/>
+    <item id="img-5.12.1" href="media/5.12.1.png" media-type="image/png"/>
+    <item id="img-5.12.2" href="media/5.12.2.png" media-type="image/png"/>
+
+
+
     <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     
     <!-- Глава 1: Оглавление -->
