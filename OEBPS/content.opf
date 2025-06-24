@@ -5,7 +5,8 @@
          xml:lang="ru">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="pub-id">urn:uuid:123456789</dc:identifier>
-    <dc:title>Название книги</dc:title>
+    <dc:title>Japanese Guide Ru</dc:title>
+    <dc:creator id="creator">Tae Kim</dc:creator>
     <dc:language>ru</dc:language>
   </metadata>
   <manifest>
@@ -74,77 +75,76 @@
     <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     
     <!-- Глава 1: Оглавление -->
-    <item id="intro-1" href="1.Оглавление/1.Недостатки обычных учебников.xhtml" media-type="application/xhtml+xml"/>
-    <item id="intro-2" href="1.Оглавление/2.Японский путеводитель по японской грамматике.xhtml" media-type="application/xhtml+xml"/>
-    <item id="intro-3" href="1.Оглавление/3.Что не рассмотрено в этом путеводителе.xhtml" media-type="application/xhtml+xml"/>
-    <item id="intro-4" href="1.Оглавление/4.Рекомендации.xhtml" media-type="application/xhtml+xml"/>
-    <item id="intro-5" href="1.Оглавление/5.Что необходимо при работе.xhtml" media-type="application/xhtml+xml"/>
+    <item id="intro-1" href="DIR1/DIR1CH1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="intro-2" href="DIR1/DIR1CH2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="intro-3" href="DIR1/DIR1CH3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="intro-4" href="DIR1/DIR1CH4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="intro-5" href="DIR1/DIR1CH5.xhtml" media-type="application/xhtml+xml"/>
 
-    <!-- Глава 2: Система письма -->
-    <item id="ch_2" href="2. Система письма/2. Система письма.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_2_1" href="2. Система письма/2.1. Хирагана.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_2_2" href="2. Система письма/2.2. Катакана.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_2_3" href="2. Система письма/2.3. Кандзи.xhtml" media-type="application/xhtml+xml"/>
+    <!-- Глава 2: Система письма --> 
+    <item id="ch_2_1" href="DIR2/DIR2CH1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_2_2" href="DIR2/DIR2CH2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_2_3" href="DIR2/DIR2CH3.xhtml" media-type="application/xhtml+xml"/>
 
     <!-- Глава 3: Базовая грамматика -->
-    <item id="ch_3_1" href="3. Базовая грамматика/3.1 Декларирование равенства.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_3_2" href="3. Базовая грамматика/3.2 Введение в частицы （は、も、が）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_3_3" href="3. Базовая грамматика/3.3 Прилагательные.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_3_4" href="3. Базовая грамматика/3.4 Основное о глаголах.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_3_5" href="3. Базовая грамматика/3.5 Отрицательные глаголы.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_3_6" href="3. Базовая грамматика/3.6 Прошедшее время.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_3_7" href="3. Базовая грамматика/3.7 Частицы, используемые с глаголами （を、に、へ、で）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_3_8" href="3. Базовая грамматика/3.8 Переходные и непереходные глаголы.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_3_9" href="3. Базовая грамматика/3.9 Придаточные предложения и порядок слов.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_3_10" href="3. Базовая грамматика/3.10 Частицы, используемые с существительными （と、や、とか、の）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_3_11" href="3. Базовая грамматика/3.11 Использование наречий и Гоби.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_1" href="DIR3/DIR3CH1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_2" href="DIR3/DIR3CH2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_3" href="DIR3/DIR3CH3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_4" href="DIR3/DIR3CH4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_5" href="DIR3/DIR3CH5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_6" href="DIR3/DIR3CH6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_7" href="DIR3/DIR3CH7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_8" href="DIR3/DIR3CH8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_9" href="DIR3/DIR3CH9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_10" href="DIR3/DIR3CH10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_11" href="DIR3/DIR3CH11.xhtml" media-type="application/xhtml+xml"/>
     
     <!-- Глава 4: Основная грамматика -->
-    <item id="ch_4_1" href="4. Основная грамматика/4.1 Вежливая форма и основа глагола　（～です、～ます）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_2" href="4. Основная грамматика/4.2 Обращение к собеседнику.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_3" href="4. Основная грамматика/4.3 Вопросительная частица　（か）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_4" href="4. Основная грамматика/4.4 Сложносочиненные предложения　（て-форма、から、ので、のに、が、けど、し、～たりする）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_5" href="4. Основная грамматика/4.5 Другие использования тэ-формы　（～ている、～てある、～ておく、～ていく、～てくる）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_6" href="4. Основная грамматика/4.6 Потенциальная форма.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_7" href="4. Основная грамматика/4.7 Использование する и なる с частицей に （～[のよう]になる／する）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_8" href="4. Основная грамматика/4.8 Условные формы　с （と、なら、ば、たら）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_9" href="4. Основная грамматика/4.9 Долженствование с　（～だめ、～いけない、～ならない、～ても）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_10" href="4. Основная грамматика/4.10 Выражение желаний　（たい、欲しい、волитив、～たらどう）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_11" href="4. Основная грамматика/4.11 Действия над придаточными предложениями （と、って）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_12" href="4. Основная грамматика/4.12 _Попробовать_ и _попытаться_　（～てみる、волитив+とする）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_13" href="4. Основная грамматика/4.13 Даем и принимаем　（あげる、やる、くれる、もらう）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_14" href="4. Основная грамматика/4.14 Просьбы и приказы　（～ください、～ちょうだい、～なさい、команды）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_15" href="4. Основная грамматика/4.15 Числительные и счет.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_4_16" href="4. Основная грамматика/4.16 Заключение к 4 части и еще Гоби.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_1"  href="DIR4/DIR4CH1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_2"  href="DIR4/DIR4CH2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_3"  href="DIR4/DIR4CH3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_4"  href="DIR4/DIR4CH4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_5"  href="DIR4/DIR4CH5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_6"  href="DIR4/DIR4CH6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_7"  href="DIR4/DIR4CH7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_8"  href="DIR4/DIR4CH8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_9"  href="DIR4/DIR4CH9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_10" href="DIR4/DIR4CH10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_11" href="DIR4/DIR4CH11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_12" href="DIR4/DIR4CH12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_13" href="DIR4/DIR4CH13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_14" href="DIR4/DIR4CH14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_15" href="DIR4/DIR4CH15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_16" href="DIR4/DIR4CH16.xhtml" media-type="application/xhtml+xml"/>
     
     
-    <!-- 5. Специальные выражения -->
-    <item id="ch_5_1" href="5. Специальные выражения/5.1 Побудительный и Страдательный залоги глаголов.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_5_2" href="5. Специальные выражения/5.2 Почтительные и смиренные формы.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_5_3" href="5. Специальные выражения/5.3 Ненамеренные действия　（～てしまう、～ちゃう／～じゃう）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_5_4" href="5. Специальные выражения/5.4 Специальные выражения с субстантиваторами （こと、ところ、もの）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_5_5" href="5. Специальные выражения/5.5 Выражения разной степени уверенности　（かもしれない、でしょう、だろう）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_5_6" href="5. Специальные выражения/5.6 Указание количества　（だけ、のみ、しか、ばかり、すぎる、количество+も、ほど、さ）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_5_7" href="5. Специальные выражения/5.7 Различные способы выражения подобия и цитирования　（よう、～みたい、～そう、～そうだ、～らしい、～っぽい）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_5_8" href="5. Специальные выражения/5.8 Использование 方 и よる для сравнений а так же другие значения　（より、の方、корень＋方、によって、によると）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_5_9" href="5. Специальные выражения/5.9 Как сказать, что-то легко (сложно) сделать　（～やすい、～にくい）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_5_10" href="5. Специальные выражения/5.10 Вновь отрицательные формы глаголов　（ないで、ず、～ん、ぬ）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_5_11" href="5. Специальные выражения/5.11 Построение гипотетических высказываний и выводов （わけ、～とする）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_5_12" href="5. Специальные выражения/5.12 Передача временного ограничения событий （ばかり、とたんに、ながら、まくる）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_5_13" href="5. Специальные выражения/5.13 Передача неизменности　（まま、っぱなし）.xhtml" media-type="application/xhtml+xml"/>
+    <!-- DIR5 -->
+    <item id="ch_5_1"  href="DIR5/DIR5CH1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_2"  href="DIR5/DIR5CH2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_3"  href="DIR5/DIR5CH3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_4"  href="DIR5/DIR5CH4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_5"  href="DIR5/DIR5CH5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_6"  href="DIR5/DIR5CH6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_7"  href="DIR5/DIR5CH7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_8"  href="DIR5/DIR5CH8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_9"  href="DIR5/DIR5CH9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_10" href="DIR5/DIR5CH10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_11" href="DIR5/DIR5CH11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_12" href="DIR5/DIR5CH12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_5_13" href="DIR5/DIR5CH13.xhtml" media-type="application/xhtml+xml"/>
     
     
-    <!-- 6. Темы для опытных -->
-    <item id="ch_6_1" href="6. Темы для опытных/6.1 Формальные выражения　（である、ではない）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_6_2" href="6. Темы для опытных/6.2 Как оно должно быть （はず、べき、べく、べからず）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_6_3" href="6. Темы для опытных/6.3 Ожидаемый минимум （でさえ、ですら、おろか）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_6_4" href="6. Темы для опытных/6.4 Проявление признаков чего-либо （～がる、ばかり、～めく）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_6_5" href="6. Темы для опытных/6.5 Формальные выражения невозможности　（～ざるを得ない、やむを得ない、～かねる）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_6_6" href="6. Темы для опытных/6.6 Тенденции （～がち、～つつ、きらいがある）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_6_7" href="6. Темы для опытных/6.7 Непростое побуждение　（まい、であろう、かろう）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_6_8" href="6. Темы для опытных/6.8 Covered by something （だらけ、まみれ、ずくめ）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_6_9" href="6. Темы для опытных/6.9 Advanced proximity of actions （が早いか、や否や、そばから）.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_6_10" href="6. Темы для опытных/6.10 Others （思いきや、がてら、あげく）.xhtml" media-type="application/xhtml+xml"/>
+    <!-- DIR6 -->
+    <item id="ch_6_1"  href="DIR6/DIR6CH1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_2"  href="DIR6/DIR6CH2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_3"  href="DIR6/DIR6CH3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_4"  href="DIR6/DIR6CH4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_5"  href="DIR6/DIR6CH5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_6"  href="DIR6/DIR6CH6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_7"  href="DIR6/DIR6CH7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_8"  href="DIR6/DIR6CH8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_9"  href="DIR6/DIR6CH9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_6_10" href="DIR6/DIR6CH10.xhtml" media-type="application/xhtml+xml"/>
 
     
     <!--
@@ -161,11 +161,8 @@
     <itemref idref="intro-3"/>
     <itemref idref="intro-4"/>
     <itemref idref="intro-5"/>
-    <itemref idref="ch_2"/>
     <itemref idref="ch_2_1"/>
-    <itemref idref="ch_2_1_1"/>
     <itemref idref="ch_2_2"/>
-    <itemref idref="ch_2_2_1"/>
     <itemref idref="ch_2_3"/>
     <itemref idref="ch_3_1"/>
     <itemref idref="ch_3_2"/>
