@@ -50,6 +50,24 @@
     <item id="ch_3_10" href="3. Базовая грамматика/3.10 Частицы, используемые с существительными （と、や、とか、の）.xhtml" media-type="application/xhtml+xml"/>
     <item id="ch_3_11" href="3. Базовая грамматика/3.11 Использование наречий и Гоби.xhtml" media-type="application/xhtml+xml"/>
     
+    <!-- Глава 4: Основная грамматика -->
+    <item id="ch_4_1" href="4. Основная грамматика/4.1 Вежливая форма и основа глагола　（～です、～ます）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_2" href="4. Основная грамматика/4.2 Обращение к собеседнику.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_3" href="4. Основная грамматика/4.3 Вопросительная частица　（か）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_4" href="4. Основная грамматика/4.4 Сложносочиненные предложения　（て-форма、から、ので、のに、が、けど、し、～たりする）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_5" href="4. Основная грамматика/4.5 Другие использования тэ-формы　（～ている、～てある、～ておく、～ていく、～てくる）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_6" href="4. Основная грамматика/4.6 Потенциальная форма.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_7" href="4. Основная грамматика/4.7 Использование する и なる с частицей に （～[のよう]になる／する）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_8" href="4. Основная грамматика/4.8 Условные формы　с （と、なら、ば、たら）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_9" href="4. Основная грамматика/4.9 Долженствование с　（～だめ、～いけない、～ならない、～ても）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_10" href="4. Основная грамматика/4.10 Выражение желаний　（たい、欲しい、волитив、～たらどう）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_11" href="4. Основная грамматика/4.11 Действия над придаточными предложениями （と、って）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_12" href="4. Основная грамматика/4.12 _Попробовать_ и _попытаться_　（～てみる、волитив+とする）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_13" href="4. Основная грамматика/4.13 Даем и принимаем　（あげる、やる、くれる、もらう）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_14" href="4. Основная грамматика/4.14 Просьбы и приказы　（～ください、～ちょうだい、～なさい、команды）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_15" href="4. Основная грамматика/4.15 Числительные и счет.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_4_16" href="4. Основная грамматика/4.16 Заключение к 4 части и еще Гоби.xhtml" media-type="application/xhtml+xml"/>
+    
     
     <!--
     
@@ -82,5 +100,21 @@
     <itemref idref="ch_3_9"/>
     <itemref idref="ch_3_10"/>
     <itemref idref="ch_3_11"/>
+    <itemref idref="ch_4_1"/>
+    <itemref idref="ch_4_2"/>
+    <itemref idref="ch_4_3"/>
+    <itemref idref="ch_4_4"/>
+    <itemref idref="ch_4_5"/>
+    <itemref idref="ch_4_6"/>
+    <itemref idref="ch_4_7"/>
+    <itemref idref="ch_4_8"/>
+    <itemref idref="ch_4_9"/>
+    <itemref idref="ch_4_10"/>
+    <itemref idref="ch_4_11"/>
+    <itemref idref="ch_4_12"/>
+    <itemref idref="ch_4_13"/>
+    <itemref idref="ch_4_14"/>
+    <itemref idref="ch_4_15"/>
+    <itemref idref="ch_4_16"/>
   </spine>
 </package>
