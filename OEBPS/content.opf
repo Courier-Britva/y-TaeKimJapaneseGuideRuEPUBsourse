@@ -18,6 +18,9 @@
     <item id="img-2.2.1" href="media/2.2.1.png" media-type="image/png"/>
     <item id="img-2.2.2" href="media/2.2.2.png" media-type="image/png"/>
     <item id="img-2.2.3" href="media/2.2.3.png" media-type="image/png"/>
+    <item id="img-3.1" href="media/3.1.png" media-type="image/png"/>
+    <item id="img-3.3.1" href="media/3.3.1.png" media-type="image/png"/>
+    <item id="img-3.3.2" href="media/3.3.2.png" media-type="image/png"/>
 
     <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     
@@ -31,13 +34,15 @@
     <!-- Глава 2: Система письма -->
     <item id="ch_2" href="2. Система письма/2. Система письма.xhtml" media-type="application/xhtml+xml"/>
     <item id="ch_2_1" href="2. Система письма/2.1. Хирагана.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_2_1_1" href="2. Система письма/2.1.1.Практические занятия по хирагане.xhtml" media-type="application/xhtml+xml"/>
     <item id="ch_2_2" href="2. Система письма/2.2. Катакана.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch_2_2_1" href="2. Система письма/2.2.1Практические занятия по катакане.xhtml" media-type="application/xhtml+xml"/>
     <item id="ch_2_3" href="2. Система письма/2.3. Кандзи.xhtml" media-type="application/xhtml+xml"/>
+
+    <!-- Глава 3: Базовая грамматика -->
+    <item id="ch_3_1" href="3. Базовая грамматика/3.1 Декларирование равенства.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_2" href="3. Базовая грамматика/3.2 Введение в частицы （は、も、が）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_3" href="3. Базовая грамматика/3.3 Прилагательные.xhtml" media-type="application/xhtml+xml"/>
     
     
-    <item id="ch_3" href="3. Базовая грамматика/3.1 Декларирование равенства.xhtml" media-type="application/xhtml+xml"/>
     <!--
     
      -->
@@ -58,5 +63,8 @@
     <itemref idref="ch_2_2"/>
     <itemref idref="ch_2_2_1"/>
     <itemref idref="ch_2_3"/>
+    <itemref idref="ch_3_1"/>
+    <itemref idref="ch_3_2"/>
+    <itemref idref="ch_3_3"/>
   </spine>
 </package>
