@@ -41,6 +41,14 @@
     <item id="ch_3_1" href="3. Базовая грамматика/3.1 Декларирование равенства.xhtml" media-type="application/xhtml+xml"/>
     <item id="ch_3_2" href="3. Базовая грамматика/3.2 Введение в частицы （は、も、が）.xhtml" media-type="application/xhtml+xml"/>
     <item id="ch_3_3" href="3. Базовая грамматика/3.3 Прилагательные.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_4" href="3. Базовая грамматика/3.4 Основное о глаголах.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_5" href="3. Базовая грамматика/3.5 Отрицательные глаголы.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_6" href="3. Базовая грамматика/3.6 Прошедшее время.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_7" href="3. Базовая грамматика/3.7 Частицы, используемые с глаголами （を、に、へ、で）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_8" href="3. Базовая грамматика/3.8 Переходные и непереходные глаголы.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_9" href="3. Базовая грамматика/3.9 Придаточные предложения и порядок слов.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_10" href="3. Базовая грамматика/3.10 Частицы, используемые с существительными （と、や、とか、の）.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_3_11" href="3. Базовая грамматика/3.11 Использование наречий и Гоби.xhtml" media-type="application/xhtml+xml"/>
     
     
     <!--
@@ -66,5 +74,13 @@
     <itemref idref="ch_3_1"/>
     <itemref idref="ch_3_2"/>
     <itemref idref="ch_3_3"/>
+    <itemref idref="ch_3_4"/>
+    <itemref idref="ch_3_5"/>
+    <itemref idref="ch_3_6"/>
+    <itemref idref="ch_3_7"/>
+    <itemref idref="ch_3_8"/>
+    <itemref idref="ch_3_9"/>
+    <itemref idref="ch_3_10"/>
+    <itemref idref="ch_3_11"/>
   </spine>
 </package>
