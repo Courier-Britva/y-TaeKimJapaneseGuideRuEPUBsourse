@@ -21,6 +21,11 @@
     <item id="img-3.1" href="media/3.1.png" media-type="image/png"/>
     <item id="img-3.3.1" href="media/3.3.1.png" media-type="image/png"/>
     <item id="img-3.3.2" href="media/3.3.2.png" media-type="image/png"/>
+    <item id="img-3.4" href="media/3.4.png" media-type="image/png"/>
+    <item id="img-3.5" href="media/3.5.png" media-type="image/png"/>
+    <item id="img-3.6" href="media/3.6.png" media-type="image/png"/>
+    <item id="img-3.8" href="media/3.8.png" media-type="image/png"/>
+    <item id="img-3.10" href="media/3.10.png" media-type="image/png"/>
 
     <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     
