@@ -14,3 +14,6 @@ https://github.com/ganqqwerty/TaeKimJapaneseGuideRu
 После запуска команды в корневой директории появится файл расширения .epub. При внесении изменений в исходники необходимо пересобрать файл снова, запустив <i>npm run build</i>.
 
 Пайплайн сборки описан в build.js в корне проекта
+
+Скачать:
+https://github.com/Courier-Britva/y-TaeKimJapaneseGuideRuEPUBsourse/releases/download/init/TaeKim_RU.epub
