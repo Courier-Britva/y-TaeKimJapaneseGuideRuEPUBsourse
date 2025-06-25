@@ -16,4 +16,4 @@ https://github.com/ganqqwerty/TaeKimJapaneseGuideRu
 Пайплайн сборки описан в build.js в корне проекта
 
 Скачать:
-https://github.com/Courier-Britva/y-TaeKimJapaneseGuideRuEPUBsourse/releases/download/init/TaeKim_RU.epub
+https://github.com/Courier-Britva/y-TaeKimJapaneseGuideRuEPUBsourse/releases/download/iOS/TaeKim_RU.epub
